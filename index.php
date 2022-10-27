@@ -3,7 +3,7 @@ $arr = array(
     "slackUsername" => "qi_beekay",
     "backend" => true,
     "age" => 25,
-    "bio" => "I am a backend dev"
+    "bio" => "Hi my name is Mokwe chibuike, i am a PHP developer and i am happy to begin my Internship with HNG"
 );
 $obj = (object)$arr;
 // $myObj->name = "John";
